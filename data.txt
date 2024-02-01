@@ -1,0 +1,99 @@
+{
+  "data": {
+    "jackpotId": "Bingo",
+    "pots": [
+      {
+        "id": "194",
+        "name": "Adventure",
+        "amount": 1196.58,
+        "currency": "GBP"
+      },
+      {
+        "id": "309",
+        "name": "virgingamessession",
+        "amount": 5402.37,
+        "currency": "GBP"
+      },
+      {
+        "id": "193",
+        "name": "Enterprise",
+        "amount": 2609.11,
+        "currency": "GBP"
+      },
+      {
+        "id": "2641",
+        "name": "BubbleUpBingoVGN",
+        "amount": 203.27,
+        "currency": "GBP"
+      },
+      {
+        "id": "3544",
+        "name": "80BallBingoVGN",
+        "amount": 47.11,
+        "currency": "GBP"
+      },
+      {
+        "id": "4623",
+        "name": "TimesBingoVGN",
+        "amount": 1355.17,
+        "currency": "GBP"
+      },
+      {
+        "id": "5323",
+        "name": "CloudVGN",
+        "amount": 780.74,
+        "currency": "GBP"
+      }
+    ]
+  }
+}
+{
+    "data": {
+        "jackpotId": "Bingo",
+        "pots": [
+            {
+                "id": "309",
+                "name": "virgingamessession",
+                "amount": 5402.38,
+                "currency": "EUR"
+            },
+            {
+                "id": "3544",
+                "name": "80BallBingoVGN",
+                "amount": 53.01,
+                "currency": "EUR"
+            },
+            {
+                "id": "5323",
+                "name": "CloudVGN",
+                "amount": 780.77,
+                "currency": "EUR"
+            }
+        ]
+    }
+}
+{
+    "data": {
+        "jackpotId": "Bingo",
+        "pots": [
+            {
+                "id": "309",
+                "name": "virgingamessession",
+                "amount": 54023.82,
+                "currency": "SEK"
+            },
+            {
+                "id": "3544",
+                "name": "80BallBingoVGN",
+                "amount": 540.28,
+                "currency": "SEK"
+            },
+            {
+                "id": "5323",
+                "name": "CloudVGN",
+                "amount": 7807.7,
+                "currency": "SEK"
+            }
+        ]
+    }
+}
